@@ -1,0 +1,17 @@
+node_modules/
+node_modules
+src/.DS_Store
+dist
+node_modules
+yarn.lock
+npm-debug.log
+# ide
+.idea
+.vscode
+.shouzan-static
+.shouzan-static/
+# Mac General
+.DS_Store
+.AppleDouble
+.LSOverride
+dist/
